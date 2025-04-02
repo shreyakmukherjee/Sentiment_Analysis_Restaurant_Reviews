@@ -63,7 +63,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn nltk
 
 
 ## Results
-- **Accuracy**: 77.50%
+- **Accuracy**: 85.50%
 
 - **Classification Report**:
   ```
